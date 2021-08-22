@@ -242,6 +242,8 @@ hasilAkhir
 
 print("\nHasil Akhir:\n", hasilAkhir)
 
+# Write Peringkat ke file xls.
+
 # peringkat = xlwt.Workbook()
 # ws = peringkat.add_sheet('Output')
 # ws.write(0, 0, 'Record id')
